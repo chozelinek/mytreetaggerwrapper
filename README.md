@@ -23,4 +23,4 @@ pip install -e git+https://github.com/chozelinek/mytreetaggerwrapper#egg=mytreet
 
 ## Usage
 
-To see examples of using `mytreetaggerwrapper.py` and a bundle of scripts to process XML files with TreeTagger check the [TreeTaggerWrapper of TreeTaggerWrapper](https://github.com/chozelinek/ttwottw).
+To see examples of using `mytreetaggerwrapper.py` and a bundle of scripts to process XML files with TreeTagger check the [Wrapper of TreeTaggerWrapper](https://github.com/chozelinek/wottw).
