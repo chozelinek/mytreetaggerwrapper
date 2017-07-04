@@ -7,8 +7,8 @@ My TreeTaggerWrapper is a slightly modified version of [Laurent Pointal's treeta
 ```text
 ├── LICENSE: GPL-3.0
 ├── README.md: this file
-├── requirements.txt: Python dependencies
-└── mytreetaggerwrapper.py: Laurent Pointal's wrapper with some minor modifications
+├── mytreetaggerwrapper.py: Laurent Pointal's wrapper with some minor modifications
+└── setup.py: script to install the package
 ```
 
 ## Install
