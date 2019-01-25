@@ -560,7 +560,7 @@ g_langsupport = {
     },
     "en": {
         "encoding": "utf-8",
-        "tagparfile": "english-utf8.par",
+        "tagparfile": "english.par",
         "abbrevfile": "english-abbreviations",
         "pchar": ALONEMARKS + "'",
         "fchar": ALONEMARKS + "'",
@@ -609,7 +609,7 @@ g_langsupport = {
     },
     "es": {
         "encoding": "utf-8",
-        "tagparfile": "spanish-utf8.par",
+        "tagparfile": "spanish.par",
         "abbrevfile": "spanish-abbreviations",
         "pchar": ALONEMARKS + "'",
         "fchar": ALONEMARKS + "'",
